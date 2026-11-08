@@ -104,4 +104,10 @@ A realização deste laboratório proporcionou uma experiência prática com fer
 - [Nmap](https://nmap.org/)
 - [Digital Innovation One](https://www.dio.me/)
 
-  www.linkedin.com/in/érika-cruz-7a97a9344
+## 👩‍💻 Author
+Érika Henrichs Ribeiro da Cruz
+
+Focused on **Cybersecurity and Network Infrastructure**.
+
+* LinkedIn: www.linkedin.com/in/érika-cruz-7a97a9344
+* GitHub: https://github.com/ErikaCruz96
