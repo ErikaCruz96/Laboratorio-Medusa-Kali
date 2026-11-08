@@ -46,20 +46,19 @@ Verificação da conectividade entre as máquinas e identificação dos serviço
 ### 3. Enumeração de usuários
 
 Estudo da identificação de contas existentes e dos riscos associados à exposição de informações de usuários.
-<img width="1352" height="683" alt="criando arquivo com possiveis senhas e testando se algumas delas bate com o usuario" src="https://github.com/user-attachments/assets/4f1e95e1-1d39-4207-b6c0-265bc59f6643" />
+<img width="855" height="683" alt="descobrimento das contas" src="https://github.com/user-attachments/assets/e0776771-fdeb-4169-bb8c-d486b39a1b5a" />
+
 
 
 ### 4. Auditoria de autenticação no DVWA
 
 Realização de testes controlados em formulário de autenticação da aplicação DVWA, observando o comportamento do sistema diante de tentativas de acesso.
-<img width="1313" height="653" alt="descobriu a senha dvwa" src="https://github.com/user-attachments/assets/79d11f3f-232a-4330-bd32-0036d6d886b6" />
 
 
 
 ### 5. Auditoria de autenticação com Medusa
 
 Estudo da ferramenta Medusa e realização de testes nos serviços disponibilizados pelo ambiente vulnerável, incluindo FTP e SMB.
-<img width="862" height="525" alt="medusa encontrou uma credicial valida para o smb" src="https://github.com/user-attachments/assets/dbd4d09e-9e7e-4d03-bf4e-5d25e2bc689a" />
 
 
 Também foi estudado o conceito de password spraying e os riscos de utilização de credenciais previsíveis.
